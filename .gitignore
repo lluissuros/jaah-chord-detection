@@ -1,3 +1,6 @@
 .idea/
 .ipynb_checkpoints/
-.audios_same_name/
+annotations/
+audios_same_name/
+estimated_chordFrame_labs/
+estimated_chordBeat_labs/
