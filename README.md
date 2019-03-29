@@ -1,6 +1,6 @@
 # Chord detection on Jazz Audio-Aligned Harmony(JAAH) dataset
 
-A comparison between two chord detection algorithms provided by Essentia library based on JAAH dataset, which consists of manually transcribed chords annotation of the "The Smithsonian Collection of Classic Jazz". 
+A comparison between two chord detection algorithms provided by Essentia library based on JAAH dataset. 
 
 ## Environment Requirements
 
