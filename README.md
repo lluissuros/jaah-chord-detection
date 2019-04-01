@@ -25,7 +25,7 @@ For installing essentia you can follow this document: https://essentia.upf.edu/d
 ## Dataset
 We are using the JAAH Dataset, particularly the transcriptions in `.lab` format. 
 
-For more information about JAAH dataset, see: https://github.com/MTG/JAAH
+
 
 
 *Note that we did not include the audio files from JAAH dataset, since it will be avaliable on Dunya soon.* 
@@ -33,4 +33,7 @@ For more information about JAAH dataset, see: https://github.com/MTG/JAAH
 We are already providing the results of our ACE estimations inside the `./results/` folder. The code will check if the .json results exist to avoid processing the files again.
 
 In case you would like to run the code and extract the features yourself, please locate the audio files in .flac format in the `./audios/` folder. You should also delete the provided results before processing the audio tracks.
+
+For more information about JAAH dataset, see: https://github.com/MTG/JAAH
+
 For more information about Dunya, see: https://dunya.compmusic.upf.edu/
